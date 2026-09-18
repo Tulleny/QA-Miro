@@ -1,22 +1,5 @@
-# Python
 __pycache__/
-*.py[cod]
 .pytest_cache/
-.venv/
-venv/
-env/
-
-# Local credentials
-.env
-.env.*
-!.env.example
-
-# IDE
+allure-results/
 .idea/
-.vscode/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Allure results and reports are intentionally not ignored.
+.venv/
