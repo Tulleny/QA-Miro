@@ -1,0 +1,36 @@
+{
+  "id" : "3458764683755459161",
+  "type" : "sticky_note",
+  "data" : {
+    "content" : "Создание через API c870fafc-8a21-41e5-9430-ed823172b390",
+    "shape" : "square"
+  },
+  "style" : {
+    "fillColor" : "light_yellow",
+    "textAlign" : "center",
+    "textAlignVertical" : "middle"
+  },
+  "geometry" : {
+    "width" : 199.0,
+    "height" : 228.0
+  },
+  "position" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "origin" : "center",
+    "relativeTo" : "canvas_center"
+  },
+  "links" : {
+    "self" : "https://api.miro.com/v2/boards/uXjVHrK7Rds%3D/sticky_notes/3458764683755459161"
+  },
+  "createdAt" : "2026-09-15T08:17:27Z",
+  "createdBy" : {
+    "id" : "3458764682503089840",
+    "type" : "user"
+  },
+  "modifiedAt" : "2026-09-15T08:17:27Z",
+  "modifiedBy" : {
+    "id" : "3458764682503089840",
+    "type" : "user"
+  }
+}

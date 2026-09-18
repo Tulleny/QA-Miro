@@ -1,0 +1,10 @@
+{
+  "type" : "error",
+  "code" : "3.0201",
+  "context" : {
+    "boardId" : "uXjVHrK7Rds=",
+    "itemId" : "3458764683755459184"
+  },
+  "message" : "Item not found",
+  "status" : 404
+}
